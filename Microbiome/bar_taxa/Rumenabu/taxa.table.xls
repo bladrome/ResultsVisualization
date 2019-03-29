@@ -1,0 +1,22 @@
+OTU ID	S_Ru1	S_Ru3	S_Ru2	S_Ru4	S_Ru5	G_M_Ru3	G_M_Ru2	G_M_Ru1	G_M_Ru4	G_M_Ru5	G_Ru1	G_Ru5	G_Ru4	G_Ru3	G_Ru2	S_M_Ru5	S_M_Ru4	S_M_Ru3	S_M_Ru2	S_M_Ru1
+d__Bacteria; k__norank; p__Firmicutes	18582	15130	14889	11415	15969	20853	14622	18415	14481	24455	17515	14397	8589	14333	16798	20053	24282	16749	22217	13210
+d__Bacteria; k__norank; p__Bacteroidetes	9253	8068	12743	15513	16418	12690	12373	21144	12138	6822	11858	6797	11197	15404	20673	24976	16062	15233	11770	13932
+d__Bacteria; k__norank; p__Proteobacteria	271	98	142	85	70	2542	1656	1351	1730	5544	47	84	76	185	190	3029	4975	2361	4202	2943
+d__Bacteria; k__norank; p__Spirochaetae	125	1047	722	1353	513	453	660	1507	6103	370	1558	685	2696	2938	1351	959	245	547	973	187
+d__Bacteria; k__norank; p__Synergistetes	506	261	163	144	44	1079	1755	1495	253	632	591	42	185	396	17	1304	654	157	528	470
+d__Bacteria; k__norank; p__Actinobacteria	436	633	359	264	221	547	778	477	299	676	594	116	140	200	454	302	210	126	717	301
+d__Bacteria; k__norank; p__Tenericutes	123	57	71	39	57	206	234	174	120	600	109	96	15	40	147	922	122	159	88	46
+d__Bacteria; k__norank; p__Saccharibacteria	194	107	68	67	44	252	190	93	139	667	69	61	29	65	42	185	200	341	445	93
+d__Bacteria; k__norank; p__Fibrobacteres	115	14	113	228	19	266	152	390	78	101	40	18	21	214	147	60	13	16	83	61
+d__Bacteria; k__norank; p__SR1__Absconditabacteria_	12	161	1	15	4	124	29	249	400	76	80	91	115	159	66	6	1	34	1	5
+d__Bacteria; k__norank; p__Chloroflexi	122	91	160	15	30	85	273	20	17	11	8	3	5	7	48	161	7	31	99	39
+d__Bacteria; k__norank; p__unclassified_k__norank	21	70	51	20	11	53	105	88	77	134	24	7	5	4	22	31	24	100	102	40
+d__Bacteria; k__norank; p__Verrucomicrobia	53	69	186	79	30	34	26	30	13	16	100	41	38	80	51	15	9	48	25	27
+d__Bacteria; k__norank; p__Cyanobacteria	63	22	5	7	8	6	2	11	4	9	42	35	52	32	15	5	4	1	14	7
+d__Bacteria; k__norank; p__Elusimicrobia	10	0	2	2	0	10	1	24	7	25	0	1	3	1	0	5	1	10	3	7
+d__Bacteria; k__norank; p__Gracilibacteria	0	0	0	0	0	24	0	0	1	0	0	0	0	0	0	9	22	0	0	9
+d__Bacteria; k__norank; p__Lentisphaerae	3	0	1	1	0	13	0	1	1	0	0	0	0	0	0	2	0	8	0	6
+d__Bacteria; k__norank; p__WS6	0	3	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	7	0	0
+d__Bacteria; k__norank; p__Microgenomates	0	0	0	0	0	2	1	0	0	4	0	0	0	0	0	0	0	0	0	0
+d__Bacteria; k__norank; p__Planctomycetes	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+d__Bacteria; k__norank; p__Acidobacteria	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

@@ -1,0 +1,25 @@
+OTU ID	G_Ce	G_Co	G_M_Ce	G_M_Co	G_M_Ru	G_Ru	S_Ce	S_Co	S_M_Ce	S_M_Co	S_M_Ru	S_Ru
+d__Bacteria; k__norank; p__Firmicutes	17349.8	20013.2	15896.6	17698.8	18565.2	14326.4	20261.0	19349.0	21760.4	20273.8	19302.2	15197.0
+d__Bacteria; k__norank; p__Bacteroidetes	7263.4	9469.2	6714.2	7183.6	13033.4	13185.8	10279.0	13155.0	7793.8	10057.8	16394.6	12399.0
+d__Bacteria; k__norank; p__Spirochaetae	109.8	231.6	8930.2	7736.8	1818.6	1845.6	497.0	631.4	12701.4	1934.6	582.2	752.0
+d__Bacteria; k__norank; p__unclassified_k__norank	4.6	10.2	116.8	3629.4	91.4	12.4	9.0	5.8	624.4	6665.6	59.4	34.6
+d__Bacteria; k__norank; p__Proteobacteria	56.8	103.6	194.4	250.0	2564.6	116.4	153.8	262.8	599.4	537.2	3502.0	133.2
+d__Bacteria; k__norank; p__Tenericutes	218.2	262.0	615.4	759.8	266.8	81.4	214.2	219.8	761.0	794.6	267.4	69.4
+d__Bacteria; k__norank; p__Verrucomicrobia	428.6	517.4	188.0	110.4	23.8	62.0	1131.8	698.4	207.0	429.4	24.8	83.4
+d__Bacteria; k__norank; p__Actinobacteria	126.0	114.0	116.0	61.8	555.4	300.8	220.2	158.4	72.2	75.0	331.2	382.6
+d__Bacteria; k__norank; p__Synergistetes	0.2	0.0	5.2	6.6	1042.8	246.2	0.4	0.0	1.4	5.2	622.6	223.6
+d__Bacteria; k__norank; p__Cyanobacteria	36.6	48.6	210.2	142.2	6.4	35.2	59.8	97.2	348.0	344.4	6.2	21.0
+d__Bacteria; k__norank; p__Saccharibacteria	31.8	30.2	49.8	24.2	268.2	53.2	35.0	37.2	76.2	31.4	252.8	96.0
+d__Bacteria; k__norank; p__Fibrobacteres	1.2	1.4	10.6	19.8	197.4	88.0	13.8	46.0	338.4	86.6	46.6	97.8
+d__Bacteria; k__norank; p__Deferribacteres	0.2	0.0	7.8	0.6	0.0	0.0	0.6	0.0	590.6	9.6	0.0	0.0
+d__Bacteria; k__norank; p__Lentisphaerae	1.6	15.6	35.6	29.4	3.0	0.0	2.0	14.4	307.8	153.0	3.2	1.0
+d__Bacteria; k__norank; p__Chloroflexi	2.2	1.4	1.2	8.0	81.2	14.2	27.0	17.0	8.6	16.8	67.4	83.6
+d__Bacteria; k__norank; p__SR1__Absconditabacteria_	0.0	0.0	0.8	0.6	175.6	102.2	0.0	0.0	0.0	0.4	9.4	38.6
+d__Bacteria; k__norank; p__Elusimicrobia	0.6	1.0	5.4	9.2	13.4	1.0	2.6	6.0	57.2	50.2	5.2	2.8
+d__Bacteria; k__norank; p__Gracilibacteria	0.0	0.0	0.0	0.0	5.0	0.0	0.0	0.0	0.0	0.0	8.0	0.0
+d__Bacteria; k__norank; p__WS6	0.0	0.0	0.0	0.0	0.2	0.0	0.0	0.0	0.0	0.0	1.4	0.6
+d__Bacteria; k__norank; p__Microgenomates	0.2	0.0	0.0	0.0	1.4	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+d__Bacteria; k__norank; p__Acidobacteria	0.0	0.0	0.4	0.0	0.0	0.0	0.0	0.0	0.6	0.4	0.0	0.2
+d__Bacteria; k__norank; p__Armatimonadetes	0.0	0.4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.4	0.0	0.0
+d__Bacteria; k__norank; p__Planctomycetes	0.0	0.0	0.0	0.4	0.0	0.0	0.0	0.0	0.0	0.0	0.2	0.0
+d__Bacteria; k__norank; p__Nitrospirae	0.0	0.0	0.2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

@@ -1,0 +1,21 @@
+OTU ID	S_Co4	S_Co1	S_Co2	S_Co5	S_Co3	G_M_Co2	G_M_Co1	G_M_Co3	G_M_Co4	G_M_Co5	G_Co1	G_Co3	G_Co2	G_Co5	G_Co4	S_M_Co1	S_M_Co3	S_M_Co2	S_M_Co5	S_M_Co4
+d__Bacteria; k__norank; p__Firmicutes	15703	20289	23986	20241	16526	11268	28701	12469	17645	18411	22589	16398	21290	21789	18000	25812	16509	25681	21144	12223
+d__Bacteria; k__norank; p__Bacteroidetes	8085	12724	14385	16416	14165	7585	11162	1259	8361	7551	8950	7884	9583	11253	9676	13272	14318	10393	9142	3164
+d__Bacteria; k__norank; p__Spirochaetae	498	414	681	785	779	2373	495	16331	19323	162	110	141	399	172	336	772	3755	1894	2933	319
+d__Bacteria; k__norank; p__unclassified_k__norank	3	9	11	2	4	17295	105	200	90	457	2	7	27	7	8	692	680	508	1323	30125
+d__Bacteria; k__norank; p__Tenericutes	102	215	356	246	180	329	911	481	1235	843	242	152	425	217	274	772	574	1134	804	689
+d__Bacteria; k__norank; p__Verrucomicrobia	175	1120	521	1315	361	261	99	22	49	121	490	490	211	115	1281	916	188	619	343	81
+d__Bacteria; k__norank; p__Proteobacteria	151	335	246	402	180	170	215	250	164	451	90	58	183	124	63	537	523	439	928	259
+d__Bacteria; k__norank; p__Cyanobacteria	3	350	47	56	30	267	58	235	27	124	43	29	118	17	36	572	261	552	239	98
+d__Bacteria; k__norank; p__Actinobacteria	163	230	116	181	102	114	57	57	18	63	117	141	160	101	51	178	46	53	62	36
+d__Bacteria; k__norank; p__Lentisphaerae	8	35	11	3	15	23	32	22	37	33	8	0	46	20	4	172	208	121	166	98
+d__Bacteria; k__norank; p__Fibrobacteres	11	20	93	97	9	14	48	0	0	37	0	0	0	7	0	69	123	47	69	125
+d__Bacteria; k__norank; p__Saccharibacteria	13	82	35	31	25	21	15	31	13	41	38	55	16	26	16	67	11	32	33	14
+d__Bacteria; k__norank; p__Elusimicrobia	3	16	6	0	5	8	6	1	14	17	1	0	1	1	2	106	45	60	0	40
+d__Bacteria; k__norank; p__Chloroflexi	0	52	17	14	2	32	3	0	1	4	1	0	4	1	1	58	0	11	13	2
+d__Bacteria; k__norank; p__Synergistetes	0	0	0	0	0	5	13	0	0	15	0	0	0	0	0	6	0	13	5	2
+d__Bacteria; k__norank; p__Deferribacteres	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	2	10	29	7	0
+d__Bacteria; k__norank; p__SR1__Absconditabacteria_	0	0	0	0	0	0	1	1	0	1	0	0	0	0	0	0	0	0	2	0
+d__Bacteria; k__norank; p__Armatimonadetes	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	1	0	0	1
+d__Bacteria; k__norank; p__Acidobacteria	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0
+d__Bacteria; k__norank; p__Planctomycetes	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0

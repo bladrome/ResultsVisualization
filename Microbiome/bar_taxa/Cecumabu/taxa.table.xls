@@ -1,0 +1,21 @@
+OTU ID	G_M_Ce5	G_M_Ce4	G_M_Ce3	G_M_Ce1	G_M_Ce2	S_Ce5	S_Ce4	S_Ce3	S_Ce2	S_Ce1	S_M_Ce5	S_M_Ce3	S_M_Ce2	S_M_Ce1	S_M_Ce4	G_Ce2	G_Ce3	G_Ce1	G_Ce4	G_Ce5
+d__Bacteria; k__norank; p__Firmicutes	15323	7905	22691	16459	17105	22382	20300	16937	22772	18914	14568	29252	23478	18389	23115	14841	16847	17105	17993	19963
+d__Bacteria; k__norank; p__Bacteroidetes	2248	1902	6821	17068	5532	8108	9421	12788	9214	11864	6779	9815	6101	8422	7852	6870	5254	6263	6899	11031
+d__Bacteria; k__norank; p__Spirochaetae	12258	21714	1773	251	8655	62	584	1036	566	237	22582	2817	11270	17768	9070	101	71	132	95	150
+d__Bacteria; k__norank; p__Verrucomicrobia	97	34	70	706	33	2366	379	396	760	1758	314	127	147	293	154	87	685	120	1032	219
+d__Bacteria; k__norank; p__Tenericutes	842	356	823	603	453	156	254	154	299	208	487	942	780	525	1071	154	192	263	348	134
+d__Bacteria; k__norank; p__Proteobacteria	213	27	149	514	69	195	148	148	84	194	459	1028	611	487	412	35	66	47	39	97
+d__Bacteria; k__norank; p__unclassified_k__norank	163	48	107	42	224	5	5	13	9	13	244	983	704	853	338	5	11	4	1	2
+d__Bacteria; k__norank; p__Cyanobacteria	104	44	644	188	71	50	7	19	21	202	256	807	269	206	202	10	39	38	62	34
+d__Bacteria; k__norank; p__Deferribacteres	0	3	2	0	34	0	0	3	0	0	21	1285	1642	4	1	0	0	0	0	1
+d__Bacteria; k__norank; p__Actinobacteria	110	18	68	173	211	397	183	73	257	191	83	47	43	80	108	195	126	105	113	91
+d__Bacteria; k__norank; p__Fibrobacteres	47	0	3	0	3	4	19	18	23	5	234	29	365	81	983	0	0	0	0	6
+d__Bacteria; k__norank; p__Lentisphaerae	119	16	19	13	11	2	1	1	1	5	177	564	344	180	274	0	0	1	1	6
+d__Bacteria; k__norank; p__Saccharibacteria	58	3	16	152	20	21	31	25	41	57	20	125	80	111	45	9	57	29	25	39
+d__Bacteria; k__norank; p__Elusimicrobia	7	12	1	7	0	0	0	4	2	7	13	42	93	42	96	0	0	0	1	2
+d__Bacteria; k__norank; p__Chloroflexi	1	1	2	0	2	26	2	0	19	88	10	2	10	18	3	4	1	0	6	0
+d__Bacteria; k__norank; p__Synergistetes	1	0	11	2	12	1	0	0	0	1	0	0	4	2	1	0	0	0	1	0
+d__Bacteria; k__norank; p__Acidobacteria	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0
+d__Bacteria; k__norank; p__SR1__Absconditabacteria_	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+d__Bacteria; k__norank; p__Nitrospirae	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+d__Bacteria; k__norank; p__Microgenomates	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
