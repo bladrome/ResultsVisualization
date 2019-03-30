@@ -1,6 +1,6 @@
 library(ggplot2)
 library(reshape2)
-datadf <- read.table("./data/anova_result - ¸±±¾.xls", sep = '\t', 
+datadf <- read.table("./data/anova_result.xls", sep = '\t', 
                      header = T,
                      stringsAsFactors = F)
 
