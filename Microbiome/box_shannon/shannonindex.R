@@ -84,7 +84,7 @@ ggsave("Figure2A.pdf", p, width = 8, height = 3)
 #shannnonplot(trdf, "GENESI.pdf")
 
 ### COG
-df <- read.xlsx("COG/COG功能注释丰度表COG_Function2018-12-13.xls", sheetIndex = 1)
+df <- read.xlsx("COG/COG_Function2018-12-13.xls", sheetIndex = 1)
 colnames(df)
 trdf <- cutheadtail(df, 2, 1)
 shannnonplot(trdf, "COGSI.pdf")
